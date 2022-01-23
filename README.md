@@ -1,1 +1,1 @@
-# movie_rating_app
+Movie Rating application using Javascript and JQuery. 
